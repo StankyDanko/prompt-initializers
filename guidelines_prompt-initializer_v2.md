@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://example.com/prompt-initializer-logo.png" alt="Prompt Initializer Logo" width="400" height="400"/>
+<img src="https://avatars.githubusercontent.com/u/69770773?v=4" alt="Prompt Initializer Logo" width="400" height="400"/>
 
 # How to Create a Prompt Initializer
 
